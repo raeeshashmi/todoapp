@@ -1,16 +1,37 @@
-# todoapp
+# ✅ Todo Master - Flutter Task Manager
 
-A new Flutter project.
+A beautiful and intuitive todo app built with Flutter to help you stay organized.
 
-## Getting Started
+## 📱 Screenshots
 
-This project is a starting point for a Flutter application.
+| Home Screen | Add New Todo | Mark Complete | Delete Todo |
+|-------------|--------------|---------------|-------------|
+| <img src="screenshots/1.jpeg" width="200"> | <img src="screenshots/2.jpeg" width="200"> | <img src="screenshots/3.jpeg" width="200"> | <img src="screenshots/4.jpeg" width="200"> |
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Add tasks** with titles, descriptions and due dates
+- **Mark tasks** as complete/incomplete
+- **Delete tasks** with swipe gestures
+- **Beautiful UI** with light/dark mode support
+- **Local persistence** to save your tasks
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+
+- **Flutter** - Cross-platform framework
+- **Hive** - Fast local database
+- **Provider** - State management
+- **Flutter DateTime Picker** - For due dates
+- **Swipe to Delete** - Gesture controls
+
+## 🚀 Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/yourusername/todo-app.git
+
+# Install dependencies
+flutter pub get
+
+# Run the app
+flutter run
