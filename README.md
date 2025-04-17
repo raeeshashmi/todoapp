@@ -20,8 +20,6 @@ A beautiful and intuitive todo app built with Flutter to help you stay organized
 
 - **Flutter** - Cross-platform framework
 - **Hive** - Fast local database
-- **Provider** - State management
-- **Flutter DateTime Picker** - For due dates
 - **Swipe to Delete** - Gesture controls
 
 ## 🚀 Installation
